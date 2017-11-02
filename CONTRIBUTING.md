@@ -11,7 +11,7 @@ Please, read the [Code of Conduct](http://hi.com)
 
 ## Contributing with comments on articles
 
-Most of our experiments are linked to a specific article on [Medium](medium.com)
+Most of our experiments are linked to a specific article on [Medium](http://www.medium.com)
 One way to contribute is to comment on Medium or to share the article
 
 ## Contributing with code
@@ -23,6 +23,7 @@ One way to contribute is to comment on Medium or to share the article
 Please alwyas add clear comments to your pull requests.
 We will do what we can to review all the pull requests within a few days.
 
+You can read this [how to fork](https://help.github.com/articles/fork-a-repo/) documentation if you need help.
 
 ## Coding conventions
 
