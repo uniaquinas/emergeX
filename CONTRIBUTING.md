@@ -3,6 +3,7 @@
 ## Our goal
 
 We love what we do and we love to experiment a lot.
+
 We are sharing these experiments because we like to receive feedbacks a possibly contributions.
 
 ## Code of Conduct
@@ -12,7 +13,8 @@ Please, read the [Code of Conduct](https://github.com/ciscoemerge/emergeX/blob/m
 ## Contributing with comments on articles
 
 Most of our experiments are linked to a specific article on [Medium](https://medium.com/cisco-emerge)
-One way to contribute is to comment on Medium or to share the article
+
+One way to contribute is to comment on Medium or to share the article.
 
 ## Contributing with code
 
@@ -32,4 +34,5 @@ Start reading our code and you'll get the hang of it :)
 --------------------------------------------------------------------------------
 
 Thanks for your help.
+
 Dario Cazzani and the Cisco Emerge Team
