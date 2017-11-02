@@ -11,7 +11,7 @@ Please, read the [Code of Conduct](http://hi.com)
 
 ## Contributing with comments on articles
 
-Most of our experiments are linked to a specific article on [Medium](http://www.medium.com)
+Most of our experiments are linked to a specific article on [Medium](https://medium.com/cisco-emerge)
 One way to contribute is to comment on Medium or to share the article
 
 ## Contributing with code
