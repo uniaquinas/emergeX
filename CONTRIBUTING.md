@@ -7,7 +7,7 @@ We are sharing these experiments because we like to receive feedbacks a possibly
 
 ## Code of Conduct
 
-Please, read the [Code of Conduct](http://hi.com)
+Please, read the [Code of Conduct](https://github.com/ciscoemerge/emergeX/blob/master/CODE_OF_CONDUCT.md)
 
 ## Contributing with comments on articles
 
