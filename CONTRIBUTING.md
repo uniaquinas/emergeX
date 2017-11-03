@@ -12,7 +12,7 @@ Please read the [Code of Conduct](https://github.com/ciscoemerge/emergeX/blob/ma
 
 ## Contributing with comments on articles
 
-Most of our experiments are covered on [Our Blog](https://medium.com/cisco-emerge). Please comment and share these articles!
+Most of our experiments are covered on [our blog](https://medium.com/cisco-emerge). Please comment and share these articles!
 
 ## Contributing with code
 
