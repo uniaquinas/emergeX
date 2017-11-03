@@ -8,7 +8,7 @@ We ❤️ what we do. By sharing these expirements, we hope to help others do wh
 
 ## Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/ciscoemerge/emergeX/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/ciscoemerge/emergeX/blob/master/CODE_OF_CONDUCT.md).
 
 ## Contributing with comments on articles
 
