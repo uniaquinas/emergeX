@@ -2,9 +2,9 @@
 
 ## Our goal
 
-We love what we do and we love to experiment a lot.
+We ❤️ what we do. By sharing these expirements, we hope to help others do what they love too. 
 
-We are sharing these experiments because we hope they help others. We love to receive feedback and would also welcome contributions.
+[Feedback](mailto:hello@ciscoemerge.com) and contributions welcome!
 
 ## Code of Conduct
 
@@ -12,9 +12,7 @@ Please read the [Code of Conduct](https://github.com/ciscoemerge/emergeX/blob/ma
 
 ## Contributing with comments on articles
 
-Most of our experiments are covered in articles on [Our Blog](https://medium.com/cisco-emerge).
-
-One way to contribute is to comment on Medium or to share the article.
+Most of our experiments are covered on [Our Blog](https://medium.com/cisco-emerge). Please comment and share these articles!
 
 ## Contributing with code
 
@@ -22,17 +20,16 @@ One way to contribute is to comment on Medium or to share the article.
 * Make changes.
 * Submit a pull request.
 
-Please always add clear comments to your pull requests.
-We will do what we can to review all the pull requests within a few days.
+Please always add clear comments to your pull requests. We will make every effort to review pull requests within a few days.
 
-You can read docs on [how to fork](https://help.github.com/articles/fork-a-repo/) if you need help.
+Read the docs on [how to fork](https://help.github.com/articles/fork-a-repo/) if you need help.
 
 ## Coding conventions
 
-Start reading our code and you'll get the hang of it :)
+We're flexible, but please write clean code and use good practices, e.g., sensible variable names. 
 
 --------------------------------------------------------------------------------
 
-Thanks for your help.
+Thanks for your help! 😄
 
-Dario Cazzani and the Cisco Emerge Team
+Dario Cazzani & the Cisco Emerge Team
