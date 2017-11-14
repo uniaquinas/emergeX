@@ -34,7 +34,7 @@ All code that you write yourself and contribute to the EmergeX Github must be li
 
 If you want to contribute any code that you did not write yourself (like pre-existing open source code), either alone or in combination with code that you did write, that code must be available under the Apache 2.0, BSD, or MIT license.
 
-If you want to contribute code to the EmergeX Github that is under any different license terms than specified above, please contact [insert mailer] to request a review.
+If you want to contribute code to the EmergeX Github that is under any different license terms than specified above, please [contact us](mailto:hello@ciscoemerge.com) to request a review.
 
 ## Coding conventions
 
