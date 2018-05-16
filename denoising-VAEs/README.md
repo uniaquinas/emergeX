@@ -6,16 +6,25 @@
 
 ![Mnist Reconstruct](https://github.com/ciscoemerge/denoising-VAEs/blob/master/images/denoise-MNIST.png)
 
+### Medium article
+Read more on the article [Generating Digits and Sounds with Artificial Neural Nets](https://towardsdatascience.com/generating-digits-and-sounds-with-artificial-neural-nets-ca1270d8445f)
+
 ### Requirements
-* [ ] A decent computer
-* [ ] TensorFlow 1.x
-* [ ] Good music
+* [x] A decent computer
+* [x] TensorFlow 1.x
+* [x] Good music
 
 ### Train with Digits
-        python train.py
+```
+python train.py
+```
 
 ### Train with Sounds
-        python train --TRAIN_AUDIO
+```
+python train --TRAIN_AUDIO
+```
 
 ### Visualize on TensorBoard
-        tensorboard --logdir tensorboard_plot
+```
+tensorboard --logdir tensorboard_plot
+```
